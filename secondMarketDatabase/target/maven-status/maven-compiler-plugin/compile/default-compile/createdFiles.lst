@@ -1,0 +1,7 @@
+fr\dauphine\secondMarketDB\service\impl\UserManagerImpl.class
+fr\dauphine\secondMarketDB\service\UserManager.class
+fr\dauphine\secondMarketDB\exception\BeanNotExistException.class
+fr\dauphine\secondMarketDB\model\User.class
+fr\dauphine\secondMarketDB\exception\BeanAlreadyExistException.class
+fr\dauphine\secondMarketDB\dao\UserDAO.class
+fr\dauphine\secondMarketDB\utils\HibernateUtils.class
